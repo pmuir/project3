@@ -3,8 +3,8 @@ dependencies:
   owner: pmuir
   repo: project2
   url: https://github.com/pmuir/project2
-  version: 0.0.9
-  versionURL: https://github.com/pmuir/project2/releases/tag/v0.0.9
+  version: 0.0.3
+  versionURL: https://github.com/pmuir/project2/releases/tag/v0.0.3
 - host: github.com
   owner: pmuir
   repo: project1
